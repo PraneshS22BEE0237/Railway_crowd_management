@@ -27,5 +27,5 @@ This project uses AI to optimize metro train schedules based on simulated crowd 
 - Numpy
 - Scikit-learn
 
-## License
-MIT
+
+
